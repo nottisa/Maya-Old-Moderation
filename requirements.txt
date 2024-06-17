@@ -1,0 +1,12 @@
+aiohttp==3.9.1
+git+https://github.com/shayypy/guilded.py
+imageio==2.33.1
+jsonschema==4.20.0
+Pillow==10.1.0
+psycopg==3.1.16
+psycopg-pool==3.2.0
+Quart==0.19.4
+quart-cors==0.7.0
+requests==2.31.0
+google-re2
+snowflake-id
