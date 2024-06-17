@@ -1,2 +1,2 @@
 # Maya-Old-Moderation
-The old regex based moderation system for Maya removed from production for unkown reasons.
+This is the old regex moderation system from Maya on Guilded. It has since been removed and replaced by a "better" system. 
